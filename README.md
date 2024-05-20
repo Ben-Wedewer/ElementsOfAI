@@ -25,8 +25,8 @@ Once the user is satisfied with their changes, they can choose output formats. T
 
 Possible data sources are available Spotify, Pandora, and Tidal data, Uberchord, and others
 
-[Spotify Datasets](https://research.atspotify.com/datasets/)
-[Uberchord API](https://api.uberchord.com/)
+* [Spotify Datasets](https://research.atspotify.com/datasets/)
+* [Uberchord API](https://api.uberchord.com/)
 
 ## Challenges
 
